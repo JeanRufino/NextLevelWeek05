@@ -18,5 +18,5 @@
 #### Criação do banco de dados/tabela settings, divisão de tarefas de roteamento para um controller.
 
 ## Dia Três
-#### Divisão de tarefas de regras de negócios para um service, criação da tabela users.
+#### Divisão de tarefas de regras de negócios para um service, criação da tabela users e messages, seus services e controllers.
 
