@@ -15,5 +15,8 @@
 #### Apresentação do projeto, setup do ambiente de desenvolvimento, criação do servidor e das primeiras rotas.
 
 ## Dia Dois
-#### Criação do banco de dados.
+#### Criação do banco de dados/tabela settings, divisão de tarefas de roteamento para um controller.
+
+## Dia Três
+#### Divisão de tarefas de regras de negócios para um service, criação da tabela users.
 
