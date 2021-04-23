@@ -9,7 +9,7 @@
 
 ## Tecnologias utilizadas:
 #### Node.JS, Express.js, SQLite3
-#### typeORM
+#### typeORM, socket.io
 
 ## Dia Um
 #### Apresentação do projeto, setup do ambiente de desenvolvimento, criação do servidor e das primeiras rotas.
@@ -18,5 +18,7 @@
 #### Criação do banco de dados/tabela settings, divisão de tarefas de roteamento para um controller.
 
 ## Dia Três
-#### Divisão de tarefas de regras de negócios para um service, criação da tabela users e messages, seus services e controllers.
+#### Divisão de tarefas de regras de negócios para um service, criação da tabela users e messages, seus services e controllers. Relacionamentos entre tabelas.
 
+## Dia Quatro
+#### Protocolos Websocket adicionados
