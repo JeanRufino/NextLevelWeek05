@@ -8,8 +8,7 @@
 #### Javascript/Typescript
 
 ## Tecnologias utilizadas:
-#### Node.JS, Express.js, SQLite3
-#### typeORM, socket.io
+#### Node.JS, Express.js, SQLite3, typeORM, socket.io, mustache 
 
 ## Dia Um
 #### Apresentação do projeto, setup do ambiente de desenvolvimento, criação do servidor e das primeiras rotas.
@@ -22,3 +21,6 @@
 
 ## Dia Quatro
 #### Protocolos Websocket adicionados
+
+## Dia Final
+#### Conexão entre admnistrador e cliente
